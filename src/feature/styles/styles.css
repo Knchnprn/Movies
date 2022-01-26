@@ -1,0 +1,52 @@
+
+.title{
+    background :radial-gradient(#22577E,#95D1CC);
+    height: 70vh;
+}
+
+.title-text{
+    font-size: 5vmin;
+    padding: 12%;
+    padding-bottom: 2%;
+    color: white;
+}
+
+.body{
+    background-color: white;
+    
+}
+
+.body-header-text{
+    
+    font-size: 7vmin;
+    padding: 2%;
+    padding-bottom: 1%;
+    color:#22577E ;
+    
+}
+
+.img-movies{
+     background-color: tomato;
+     padding: 1%;
+}
+.movie-text{
+    font-size: 2vmin;
+    
+}
+
+.label-movie {
+    width : 340px;
+    height: 660px;
+    overflow:hidden;
+    display:inline-block;
+    text-overflow:clip;
+    
+  }
+
+  .navbar-text{
+    
+    font-size: 3vmin;
+    color: #22577E;
+    text-align: center;
+      padding: 0.75%;
+  }
